@@ -2,8 +2,8 @@
 declare(strict_types=1);
 
 $mahasiswa = [
-    'nama' => 'nuel',
-    'nim' => '25110053',
+    'nama' => 'Faisal',
+    'nim' => '25110026',
     'kelas' => 'TK Grup D',
 ];
 
